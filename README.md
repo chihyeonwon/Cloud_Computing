@@ -15,4 +15,6 @@ aws를 사용해서 프런트엔드 앱의 백엔드를 구현할 수 있을
 ![image](https://user-images.githubusercontent.com/58906858/222414705-5329bd5d-8547-4778-9da4-19e4a5ba42fe.png)   
 ![image](https://user-images.githubusercontent.com/58906858/222415003-66ca4e86-72f9-480b-b444-7b5bcd42161f.png)   
 ![image](https://user-images.githubusercontent.com/58906858/222415544-7ded165f-7f6b-4c71-8dd8-fbee96f4dfb6.png)
+![image](https://user-images.githubusercontent.com/58906858/222416305-0989dd8a-db99-41de-b7b5-10bd119fba39.png)
+![image](https://user-images.githubusercontent.com/58906858/222416329-6c6d5931-8202-4c54-8430-77a2764dbac4.png)
 
