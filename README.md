@@ -46,3 +46,14 @@ Resource Pooling : 리소스 풀링, 다양한 IT 리소스들이 한데 모여 
 Lapid Elasticity : 빠른 탄력성, 변화하는 환경에 적응이 빨라야 한다.
 Measured Service : 서비스는 측정이 가능해야 한다.
 ```
+
+## 클라우드 모델의 3가지 서비스 모델
+```
+클라우드 서비스는 제공 범위에 따라서 IaaS, PaaS, SaaS로 구분된다.
+
+IaaS : (Infrastructure as a Service) : CPU, 메모리 등의 H/W 리소스를 제공하는 클라우드 서비스
+PaaS : (Platform as a Service) : OS와 S/W 개발이나 데이터 분석을 위한 도구들까지 제공하는 서비스
+SaaS : (Software as a Service) : H/W와 OS 뿐만 아니라 응용 S/W(애플리케이션)까지 제공하는 서비스
+```
+
+```
