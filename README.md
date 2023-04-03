@@ -92,5 +92,9 @@ OpenAPI 이용
 웹 기반 프로그램으로 제공
 IT 자원을 캡슐화해서 서비스로서 제공
 ```
+## 클라우드 컴퓨팅 형태
+```
+전개(Deployment) 모델 : Public Cloud, Hybrid Cloud, Private Cloud, Community Cloud
 
+서비스(Service) 모델 : IaaS, PaaS, SaaS
 ```
