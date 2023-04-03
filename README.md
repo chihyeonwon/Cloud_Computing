@@ -161,5 +161,10 @@ CSP의 책임 = 퍼블릭 클라우드와 그에 속한 IT 자원의 생성과 �
 가용성과 신뢰성을 갖는 클러스터 컴퓨터를 구성
 Homogeneous/Heterogeneous 환경 모두 구성 가능
 ```
+## 클러스터링 기술
+```
+다수의 컴퓨터(CPU, Memory, 하드디스크)를 모아서 하나의 컴퓨터처럼 쓰는 방식
+LAN(근거리 통신망) 클러스터 안의 컴퓨터를 노드라고 함
 
+Root Node(Head Node), Slave Node(Compute Node) 
 ```
