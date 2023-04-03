@@ -98,3 +98,12 @@ IT 자원을 캡슐화해서 서비스로서 제공
 
 서비스(Service) 모델 : IaaS, PaaS, SaaS
 ```
+## 퍼블릭 클라우드 
+```
+클라우드 서비스 제공자(CSP)가 소유
+다수의 사용자(CSC : Cloud Service Consumer)가 공유
+클라우드 인프라를 일반 대중이나 대형 산업 그룹에게 제공
+CSC에게 유료로 제공 또는 광고비를 수입원으로 무료 제공
+CSP의 책임 = 퍼블릭 클라우드와 그에 속한 IT 자원의 생성과 유지보수
+대표 모델 : AWS, Azure, GCP, Naver Cloud Platform
+```
