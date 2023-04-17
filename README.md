@@ -168,3 +168,4 @@ LAN(근거리 통신망) 클러스터 안의 컴퓨터를 노드라고 함
 
 Root Node(Head Node), Slave Node(Compute Node) 
 ```
+## 클라우드의 단점
